@@ -1,6 +1,6 @@
 # Session 4
 
-[collab link] (https://colab.research.google.com/drive/1eEAji3GqmthwCTyOTMSEWBUXQmKrg4nJ?usp=sharing)
+[collab link](https://colab.research.google.com/drive/1eEAji3GqmthwCTyOTMSEWBUXQmKrg4nJ?usp=sharing)
 
 total number of parameters: 17,194
 
