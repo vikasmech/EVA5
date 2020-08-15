@@ -12,5 +12,5 @@ other additional things:
 Batchnorm was used at after every convolution + relu layers (except last conv layer)
 dropout of p= 0.1 was used twice. 
 
-<img width="964" alt="Model Summary" src=" arrayExample.png">
+<img width="964" alt="Model Summary" src="https://github.com/vikasmech/EVA5/blob/master/S4/modelsummary.png">
 
