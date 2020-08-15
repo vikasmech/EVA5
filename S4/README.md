@@ -1,5 +1,7 @@
 # Session 4
 
+[collab link] (https://colab.research.google.com/drive/1eEAji3GqmthwCTyOTMSEWBUXQmKrg4nJ?usp=sharing)
+
 total number of parameters: 17,194
 
 <img width="964" alt="Model Summary" src="https://github.com/vikasmech/EVA5/blob/master/S4/modelsummary.png">
